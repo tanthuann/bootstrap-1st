@@ -1,0 +1,73 @@
+.portfolio .pictureOne {
+	background-image: url(./img/portfolio/fullsize/1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+	/*display: flex;*/
+}
+
+.portfolio .overlay {
+	/*flex-grow: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;*/
+	opacity: 0;
+	transition: opacity 0.5s;
+}
+
+.portfolio .overlay:hover {
+	opacity: 0.8;
+}
+
+.portfolio .pictureTwo {
+	background-image: url(./img/portfolio/fullsize/2.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+}
+
+
+.portfolio .pictureThree {
+	background-image: url(./img/portfolio/fullsize/3.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+}
+
+
+.portfolio .pictureFour {
+	background-image: url(./img/portfolio/fullsize/4.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+}
+
+
+.portfolio .pictureFive {
+	background-image: url(./img/portfolio/fullsize/5.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+}
+
+
+.portfolio .pictureSix {
+	background-image: url(./img/portfolio/fullsize/6.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	height: 40vh;
+}
+

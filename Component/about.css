@@ -1,0 +1,9 @@
+.about {
+	padding: 128px 0;
+}
+
+.about hr.divider {
+	max-width: 3.25rem;
+    border-width: .2rem;
+    border-color: #fff;
+}
